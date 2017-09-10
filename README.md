@@ -11,7 +11,7 @@ Prophet is open source software released by Facebook's Core Data Science team. I
 
 Prophet is on PyPI, so you can use pip to install it:
 
-\# bash
+\# bash \n
 $ pip install fbprophet
 
 The major dependency that Prophet has is pystan. PyStan has its own installation instructions.
